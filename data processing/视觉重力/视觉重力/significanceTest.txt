@@ -1,0 +1,11 @@
+horizontal significant(315, 400), p = 0.023156545509630817
+vertical significant(180, 400), p = 0.0002982572771048558
+vertical significant(225, 400), p = 7.075221390103952e-05
+vertical significant(315, 800), p = 0.0029173873903988695
+vertical significant('斜向上', 400), p = 0.024405466797175295
+vertical significant('斜向上', 800), p = 0.011014349479838956
+vertical significant('斜向下', 400), p = 0.006522518686760986
+vertical significant('水平', 400), p = 0.00024431749762374004
+ifNoGravityPredict, gravity condition,  y sig., p = 0.008669573450166999
+ifGravityPredict, gravity condition,  x sig., p = 0.0006880875579768766
+ifGravityPredict, noGravity condition,  y sig., p = 7.823553634178271e-06
